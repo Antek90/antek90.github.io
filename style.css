@@ -1,0 +1,11 @@
+P{
+    color:red;
+    font-size: large;
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+}
+body{
+background-color: aqua;
+background-image: -moz-element();
+max-width: 800px;
+margin: auto;
+}
